@@ -7,5 +7,8 @@ public class CreatepasswordTest {
 	public void createPwd() {
 		System.out.println("create password successufully");
 	}
-
+	@Test
+	public void deletePwd() {
+		System.out.println("delete successufully");
+	}
 }
